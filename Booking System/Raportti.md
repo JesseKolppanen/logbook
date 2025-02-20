@@ -1,5 +1,4 @@
 ZAP Security Report
-
 1. Johdanto
 
 Raportin tarkoitus ja laajuus
