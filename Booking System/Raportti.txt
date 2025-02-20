@@ -1,0 +1,8 @@
+Content security policy not set
+Missing anti-clickjacking Header
+Application error disclosure: This page contains an error/warning message that may disclose sensitive information like the location of the file that produced the unhandled exception. This information can be used to launch further attacks against the web application. The alert could be a false positive if the error message is found inside a documentation page.
+X-Conetn-Type-Options Header Missing
+User Agent Fuzzer
+SQL Injection
+Path Traversal
+Format String Error
