@@ -16,4 +16,5 @@
 | 13.4.2025  | Studied material          | None                   | Don't know yet     | 4 hours    |
 | 24.4.2025  | BookingSystemPhase3 redo  | Finding commands       | Don't know yet     | 4 hours    |
 | 24.4.2025  | BookingSystemPhase4       | None                   | Don't know yet     | 5 hours    |
-| 24.4.2025  | Lectures                  | None                   | Don't know yet     | 10 hours   |
+| 24.4.2025  | Lectures                  | None                   | Don't know yet     | 15 hours   |
+| 24.4.2025  | PortSwigger               | None                   | Don't know yet     | 4 hours    |
