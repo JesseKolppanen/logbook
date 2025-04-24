@@ -12,5 +12,7 @@
 | 23.3.2025  | BookingSystemPhase2 P2    | Finding commands       | Don't know yet     | 5 hours    |
 | 5.4.2025   | Studied material          | None                   | Don't know yet     | 4 hours    |
 | 5.4.2025   | BookingSystemPhase3       | Finding commands       | Don't know yet     | 6 hours    |
+| 11.4.2025  | Studied material          | None                   | Don't know yet     | 4 hours    |
+| 13.4.2025  | Studied material          | None                   | Don't know yet     | 4 hours    |
 | 24.4.2025  | BookingSystemPhase3 redo  | Finding commands       | Don't know yet     | 4 hours    |
-| 24.4.2025  | BookingSystemPhase4       | None                   | Don't know yet     | 5 hours   |
+| 24.4.2025  | BookingSystemPhase4       | None                   | Don't know yet     | 5 hours    |
