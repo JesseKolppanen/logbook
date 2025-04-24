@@ -5,10 +5,8 @@
 | / (index)                 | ✅     | ✅       | ✅              |
 | └─ View resource form     | ❌     | ✅       | ✅              |
 | └─ Create new resource    | ❌ *1  | ❌ *2    | ✅ *3           |
-| /login                    | ⚠️     | ⚠️       | ✅              |
+| /login                    | ✅     | ✅       | ✅              |
 | /register                 | ✅     | ❌       | ❌              |
-| /profile                  | ❌     | ✅       | ✅              |
-| /admin/users              | ❌     | ❌       | ✅              |
 | /reservation              | ❌     | ✅       | ✅              |
 | /resources                | ❌     | ✅       | ✅              |
 | /api/reservations/1       | ⚠️     | ✅       | ✅              |
